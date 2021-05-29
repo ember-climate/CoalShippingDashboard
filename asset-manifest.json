@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/CoalShippingDashboard/static/css/main.d3c92c1c.chunk.css",
-    "main.js": "/CoalShippingDashboard/static/js/main.d7fd21eb.chunk.js",
-    "main.js.map": "/CoalShippingDashboard/static/js/main.d7fd21eb.chunk.js.map",
-    "runtime-main.js": "/CoalShippingDashboard/static/js/runtime-main.00ee283c.js",
-    "runtime-main.js.map": "/CoalShippingDashboard/static/js/runtime-main.00ee283c.js.map",
+    "main.css": "/CoalShippingDashboard/static/css/main.ca7363ab.chunk.css",
+    "main.js": "/CoalShippingDashboard/static/js/main.bc67b322.chunk.js",
+    "main.js.map": "/CoalShippingDashboard/static/js/main.bc67b322.chunk.js.map",
+    "runtime-main.js": "/CoalShippingDashboard/static/js/runtime-main.faad9904.js",
+    "runtime-main.js.map": "/CoalShippingDashboard/static/js/runtime-main.faad9904.js.map",
     "static/css/2.c1e28d34.chunk.css": "/CoalShippingDashboard/static/css/2.c1e28d34.chunk.css",
-    "static/js/2.52386282.chunk.js": "/CoalShippingDashboard/static/js/2.52386282.chunk.js",
-    "static/js/2.52386282.chunk.js.map": "/CoalShippingDashboard/static/js/2.52386282.chunk.js.map",
-    "static/js/3.10f2c4f2.chunk.js": "/CoalShippingDashboard/static/js/3.10f2c4f2.chunk.js",
-    "static/js/3.10f2c4f2.chunk.js.map": "/CoalShippingDashboard/static/js/3.10f2c4f2.chunk.js.map",
+    "static/js/2.ee47c5b0.chunk.js": "/CoalShippingDashboard/static/js/2.ee47c5b0.chunk.js",
+    "static/js/2.ee47c5b0.chunk.js.map": "/CoalShippingDashboard/static/js/2.ee47c5b0.chunk.js.map",
+    "static/js/3.3d2269d0.chunk.js": "/CoalShippingDashboard/static/js/3.3d2269d0.chunk.js",
+    "static/js/3.3d2269d0.chunk.js.map": "/CoalShippingDashboard/static/js/3.3d2269d0.chunk.js.map",
     "index.html": "/CoalShippingDashboard/index.html",
     "static/css/2.c1e28d34.chunk.css.map": "/CoalShippingDashboard/static/css/2.c1e28d34.chunk.css.map",
-    "static/css/main.d3c92c1c.chunk.css.map": "/CoalShippingDashboard/static/css/main.d3c92c1c.chunk.css.map",
-    "static/js/2.52386282.chunk.js.LICENSE.txt": "/CoalShippingDashboard/static/js/2.52386282.chunk.js.LICENSE.txt",
+    "static/css/main.ca7363ab.chunk.css.map": "/CoalShippingDashboard/static/css/main.ca7363ab.chunk.css.map",
+    "static/js/2.ee47c5b0.chunk.js.LICENSE.txt": "/CoalShippingDashboard/static/js/2.ee47c5b0.chunk.js.LICENSE.txt",
     "static/media/Coal_mine.f8b35831.png": "/CoalShippingDashboard/static/media/Coal_mine.f8b35831.png",
     "static/media/power_plant.0ce6d6e9.png": "/CoalShippingDashboard/static/media/power_plant.0ce6d6e9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.00ee283c.js",
+    "static/js/runtime-main.faad9904.js",
     "static/css/2.c1e28d34.chunk.css",
-    "static/js/2.52386282.chunk.js",
-    "static/css/main.d3c92c1c.chunk.css",
-    "static/js/main.d7fd21eb.chunk.js"
+    "static/js/2.ee47c5b0.chunk.js",
+    "static/css/main.ca7363ab.chunk.css",
+    "static/js/main.bc67b322.chunk.js"
   ]
 }
